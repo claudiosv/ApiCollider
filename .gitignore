@@ -1,2 +1,9 @@
 .DS_Store
 venv/
+node_modules/
+data/db
+certbot/conf/live/apicollider.xyz/
+certbot/conf/csr/
+certbot/conf/keys/
+certbot/conf/archive/apicollider.xyz/
+certbot/conf/accounts/
